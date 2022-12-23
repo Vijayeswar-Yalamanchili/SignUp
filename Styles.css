@@ -32,7 +32,7 @@ img{
     border-radius: 50px;
     display: flex;
     justify-content: space-around;
-    align-items: center;
+    align-items: center;    
 }
 
 .signup-title{
@@ -52,7 +52,7 @@ img{
 #email,#password{    
     margin: 8px 0px;
     border: none;
-    border-radius: 25px;
+    border-radius: 10px;
 }
 
 #button{
@@ -61,7 +61,8 @@ img{
     padding: 10px 70px;
     font-size: 20px;
     border-radius: 10px;
-    font-family: calibri;    
+    font-family: calibri;  
+    /* cursor: pointer;   */
 }
 
 #button:hover{
